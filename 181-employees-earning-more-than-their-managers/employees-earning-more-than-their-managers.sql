@@ -4,3 +4,4 @@ from employee e
 JOIN employee m
 On E.MANAGERID=M.ID
 where e.salary> m.salary
+  
